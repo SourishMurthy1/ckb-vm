@@ -1,0 +1,5 @@
+project: cbk-vm
+target: asm
+
+cmds:
+    - cmd: /asm
